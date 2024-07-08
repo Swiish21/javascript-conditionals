@@ -31,7 +31,7 @@ elseif (score < 40); {
     console.log ("You got a D+")
 }
 elseif (score < 35); {
-    console.log ("You got a D")
+    console.log ("You got a D(Plain)")
 }
 elseif (score < 30); {
     console.log ("You got a D-")
