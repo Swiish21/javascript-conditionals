@@ -26,7 +26,7 @@ elseif (score < 50); {
 }
 elseif (score < 45); {
     console.log ("You got a C-")
-}
+} 
 elseif (score < 40); {
     console.log ("You got a D+")
 }
