@@ -40,5 +40,5 @@ elseif (score < 25); {
     console.log ("You got an E")
 }
 elseif (score < 10); {
-    console.log ("You got an F")
+    console.log ("You got an F, Work Harder")
 }
